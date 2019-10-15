@@ -38,3 +38,5 @@ project.xcworkspace
 # OSX
 #
 .DS_Store
+.project
+org.eclipse.buildship.core.prefs
